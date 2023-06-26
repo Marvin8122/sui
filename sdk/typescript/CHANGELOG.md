@@ -1,5 +1,15 @@
 # @mysten/sui.js
 
+## 0.36.1
+
+### Patch Changes
+
+- 36f2edff3: Use splitGenericParamaters util from bcs
+- 2f37537d5: Update `SuiEventFilter` structure for `TimeRange` query.
+- 00484bcc3: add method to create Ed25519Keypair from a mnemonic seed
+- Updated dependencies [36f2edff3]
+  - @mysten/bcs@0.7.3
+
 ## 0.36.0
 
 ### Minor Changes
